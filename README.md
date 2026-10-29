@@ -8,7 +8,7 @@
 - **Interface:** [Google Colab / Jupyter Notebook]
 - **Primary contact:** [dkbhatt1307@gmail.com](mailto:dkbhatt1307@gmail.com)
 - **Secondary contact:** [uv.vis.spectra.ml@gmail.com](mailto:uv.vis.spectra.ml@gmail.com)
-- **Notebook:** [Open Spectra ML v_1 in Google Colab](https://drive.google.com/file/d/11T5Z8x_Q2zYYTlFtzl-9_yjA2uvikWC-/view?usp=drive_link)
+- **Notebook:** [Open Spectra ML v1 in Google Colab](https://drive.google.com/file/d/11T5Z8x_Q2zYYTlFtzl-9_yjA2uvikWC-/view?usp=drive_link)
 - **DOI:** 10.5281/zenodo.23402688
 
 ## Overview
