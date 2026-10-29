@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23402688.svg)](https://doi.org/10.5281/zenodo.23402688)
 
 - **Version:** `v13.7.3`
-- **Interface:** Google Colab / Jupyter Notebook
+- **Interface:** [Google Colab / Jupyter Notebook](https://drive.google.com/file/d/1TM6Q-7lEOGqoS2p5-LUQ98Efj-b9WSiT/view?usp=drive_link)
 - **Primary contact:** [dkbhatt1307@gmail.com](mailto:dkbhatt1307@gmail.com)
 - **Secondary contact:** [spectra.ml.v13.7.3@gmail.com](mailto:spectra.ml.v13.7.3@gmail.com)
 - **Notebook:** [Open Spectra ML v13.7.3 in Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
@@ -245,6 +245,6 @@ The core project idea and its inspiration are original to the project author. Ch
 - **Version:** v13.7.3
 - **DOI:** 10.5281/zenodo.23402688
 - **DOI url:** [10.5281/zenodo.23402688](https://zenodo.org/records/23402688)
-- **GitHub url:** [Spectra ML](https://github.com/bhattdha713/Spectra-AI)
+- **GitHub url:** [Spectra ML](https://github.com/bhattdha713/Spectra-ML)
 - **Contributors:** Dhairya Bhatt, Avani Doshi, Mishti Tekwani
-- **Notebook:** [Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
+- **Notebook:** [Google Colab](https://drive.google.com/file/d/1TM6Q-7lEOGqoS2p5-LUQ98Efj-b9WSiT/view?usp=drive_link)
