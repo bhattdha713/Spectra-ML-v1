@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23402688.svg)](https://doi.org/10.5281/zenodo.23402688)
 
-- **Version:** `v13.7.3`
+- **Version:** `v1`
 - **Interface:** [Google Colab / Jupyter Notebook](https://drive.google.com/file/d/1TM6Q-7lEOGqoS2p5-LUQ98Efj-b9WSiT/view?usp=drive_link)
 - **Primary contact:** [dkbhatt1307@gmail.com](mailto:dkbhatt1307@gmail.com)
 - **Secondary contact:** [spectra.ml.v13.7.3@gmail.com](mailto:spectra.ml.v13.7.3@gmail.com)
