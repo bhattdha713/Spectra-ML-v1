@@ -1,10 +1,10 @@
-# Spectra ML v1
+# Spectra ML v1.0
 
 **Spectra ML** is a computational tool for estimating molecular UV–Visible absorption maxima (lambda_max (maximum absorption wavelength)) and generating modelled spectra under selected solvent and experimental-condition inputs. The implementation combines cheminformatics, machine-learning predictors, analogue retrieval, empirical spectral rules, optional quantum-chemical calculations, condition-dependent corrections, uncertainty-related scoring, and visualization in a Google Colab notebook.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23402688.svg)](https://doi.org/10.5281/zenodo.23402688)
 
-- **Version:** `v1`
+- **Version:** `v1.0`
 - **Interface:** [Google Colab / Jupyter Notebook](https://drive.google.com/file/d/1TM6Q-7lEOGqoS2p5-LUQ98Efj-b9WSiT/view?usp=drive_link)
 - **Primary contact:** [dkbhatt1307@gmail.com](mailto:dkbhatt1307@gmail.com)
 - **Secondary contact:** [spectra.ml.v13.7.3@gmail.com](mailto:spectra.ml.v13.7.3@gmail.com)
@@ -242,7 +242,7 @@ The core project idea and its inspiration are original to the project author. Ch
 ## Citation and release
 
 - **Software:** Spectra ML
-- **Version:** v13.7.3
+- **Version:** v1.0
 - **DOI:** 10.5281/zenodo.23402688
 - **DOI url:** [10.5281/zenodo.23402688](https://zenodo.org/records/23402688)
 - **GitHub url:** [Spectra ML](https://github.com/bhattdha713/Spectra-ML)
