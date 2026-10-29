@@ -1,4 +1,4 @@
-# Spectra ML v13.7.3
+# Spectra ML v1
 
 **Spectra ML** is a computational tool for estimating molecular UV–Visible absorption maxima (lambda_max (maximum absorption wavelength)) and generating modelled spectra under selected solvent and experimental-condition inputs. The implementation combines cheminformatics, machine-learning predictors, analogue retrieval, empirical spectral rules, optional quantum-chemical calculations, condition-dependent corrections, uncertainty-related scoring, and visualization in a Google Colab notebook.
 
