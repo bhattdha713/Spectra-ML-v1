@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "If you use Spectra AI in your research, please cite this software release."
+message: "If you use Spectra ML in your research, please cite this software release."
 title: "Spectra AI: An Integrated Machine-Learning Framework for Structure-Based UV–Vis Spectral Prediction and Adaptive Refinement"
 type: software
 version: 1.0
 doi: "10.5281/zenodo.23402688"
-repository-code: "https://github.com/bhattdha713/Spectra-AI"
+repository-code: "https://github.com/bhattdha713/Spectra-ML-v1"
 authors:
   - family-names: Bhatt
     given-names: Dhairya
